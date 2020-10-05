@@ -1,0 +1,8 @@
+h1 { /* Alle h1-Elemente stylen */
+    /* Unterren Rand 1px breit, strichliert und schwarz zeichnen */
+    border-bottom: 1px dashed black;
+    /* Kleinbuchstaben als keine Großbuchstaben darstellen */
+    font-variant: small-caps;
+    /* Schriftfarbe ändern */
+    color: red 
+}
